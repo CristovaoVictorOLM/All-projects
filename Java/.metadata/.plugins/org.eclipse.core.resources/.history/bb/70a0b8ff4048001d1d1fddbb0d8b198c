@@ -1,0 +1,7 @@
+package nubank;
+
+public class main {
+	public void principal(String[] args) {
+		
+	}
+}
